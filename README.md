@@ -99,7 +99,7 @@ Area:<input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/>
 ```
 
 ## OUTPUT:
-![Output](image/areaofrectangle.png)
+![Area of Rectangle](https://user-images.githubusercontent.com/103949835/213884296-e2b97fa0-85e8-4952-bda7-20ad7dc31d57.png)
 
 ### Home Page:
 http://balajirajivel.student.saveetha.in:8000/areaofrectangle/
